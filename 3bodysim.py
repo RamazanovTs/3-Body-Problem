@@ -12,6 +12,7 @@ dt = 0
 MIDNIGHT_BLUE = (25, 25, 112)
 MAX_TRAJ_POINTS = 500
 
+# BODY 1
 pos1 = (width/2 - 100, height/2)
 velocity1 = (15, 20) 
 mass1 = 200
